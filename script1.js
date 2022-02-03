@@ -22,7 +22,7 @@ function output(list) {
 
             // Passa pela lista verificando a quantidade de vezes que o mesmo elemento aparece
             for (var a = 0; a < list.length; a++) { 
-                //Se for igual ao contador aumenta em um 
+                //Se for igual o contador aumenta em um 
                 if (list[a] == list[item]) { 
                     counter++;
                 }
