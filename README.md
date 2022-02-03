@@ -4,7 +4,7 @@
 ### Manipulação de listas
 
 <p> Criei uma função que recebe uma lista de números inteiros como parâmetro, </br>
-depois essa lista será ordenada e serão retirados os números repetido.</p>
+depois essa lista será ordenada e serão retirados os números repetidos.</p>
 <p> Essa função esta no script1.js </p>
 
 ## Problema 2 <br>
